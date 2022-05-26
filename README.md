@@ -8,3 +8,6 @@ Use Yolov5 structure to recognize cars, trafic lights, pedestrians.
 4. Train the model
 5. Model validation
 6. Prediction
+
+
+Data set: BDD100K https://bdd-data.berkeley.edu/
